@@ -13,6 +13,6 @@ This app uses the following packages:<br>
 Mongoose <br><br> Morgan<br><br> Express<br>
 This app is also backed by a MongoDB database and displayed on HEROKU.<br><br>
 HEROKU APP: https://fierce-ridge-39286.herokuapp.com/?id=600cf6d94d753a00152b7bc2 <br>
-# Homepage
+
 
 
