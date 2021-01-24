@@ -11,4 +11,5 @@ The user is presented with their latest workout at the homepage<br>
 Their are two tabs at the top left where the user can check out their pie, bar, and line charts for the week as well as the weight for each exercise.<br>
 This app uses the following packages:<br>
 Mongoose <br><br> Morgan<br><br> Express<br>
+This app is also backed by a MongoDB database and displayed on HEROKU.<br><br>
 
